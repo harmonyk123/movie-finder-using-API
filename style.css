@@ -1,0 +1,182 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+
+body{
+  margin: 0px auto 50px auto;
+  text-align: center;
+  background-color: #222222;
+  
+}
+
+.form-control {
+  width: 60%;
+  margin: auto;
+}
+
+#button {
+  width: 140px;
+  height: 46px;
+  border-radius: 4px;
+  background-color: #2598a7;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 0.94;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.film {
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 50%);
+  background-color: rgba(114, 0, 19, 0.432);
+}
+
+.hidden {
+  display: none;
+}
+
+#films {
+  display: flex;
+}
+
+
+
+
+
+button {
+  
+  background-color: #222222;
+  font-weight: bold;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.back-button{
+  border: 3px solid #fff;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+} 
+
+button:hover {
+
+  background-color: #464646;
+}
+
+
+.card {
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: 0.3s;
+}
+
+
+
+.card:hover {
+  background-color: #c0bebe;
+}
+
+
+
+.container2 {
+  padding: 2px 16px;
+  margin: auto;
+}
+
+
+
+.movieButton {
+  background-color: #222222;
+}
+
+
+
+h1{
+  padding-top: 1rem;
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: 300;
+  letter-spacing: 1.1px;
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+}
+
+
+
+h3{
+  font-family: "Times New Roman", Times, serif;;
+  font-weight: 500;
+  line-height: 1.29;
+  color: #27c19e;
+  padding-left: 5px;
+}
+
+#logo {
+  margin-top: 1rem;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+  overflow: hidden;
+}
+
+#infoContainerTop {
+  display: none;
+}
+
+#infoContainer {
+  margin: auto;
+}
+
+.backButton {
+  border: 1px solid #797878;
+}
+
+#infoContainer, #infoContainerTop {
+  width: 70%;
+  color: #fff;
+  background-color: #474747;
+  border-radius: 25px;
+}
+
+#movieInfo {
+  width: 65%;
+  margin: 32px auto;
+}
+
+@media (max-width: 768px) {
+  #films {
+    display: block;
+    width: auto;
+  }
+  #logo {
+    margin-top: 1rem;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
