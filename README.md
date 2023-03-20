@@ -1,8 +1,10 @@
 # Random Movie Picker
 
 
-A small app to help find something to watch based on a keyword. 
-This was created as a group project
+A small app to help find something to watch based on a keyword.
+
+This was the first group project I work on at purple beard on a small team of three.
+
 
 
 ## [Github pages](https://harmonyk123.github.io/movie-finder-using-API/)
