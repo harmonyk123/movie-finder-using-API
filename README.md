@@ -7,7 +7,7 @@ This was the first group project I work on at purple beard on a small team of th
 
 
 
-## [Github pages](https://harmonyk123.github.io/movie-finder-using-API/)
+## [LIVE VIEW](https://harmonyk123.github.io/movie-finder-using-API/)
 
 ## Screenshots
 
