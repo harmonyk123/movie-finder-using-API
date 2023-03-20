@@ -1,8 +1,11 @@
 # Random Movie Picker
 
-A small app to help find something to watch based on a keyword
 
-## [Github pages](https://edixon95.github.io/Movie-Randomiser-API/)
+A small app to help find something to watch based on a keyword. 
+This was created as a group project
+
+
+## [Github pages](https://harmonyk123.github.io/movie-finder-using-API/)
 
 ## Screenshots
 
